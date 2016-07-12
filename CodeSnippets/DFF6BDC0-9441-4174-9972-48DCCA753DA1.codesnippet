@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>tq_button</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>-(UIButton*)&lt;#buttonName#&gt; {
+    UIButton *btn=_backButton;
+    if (!btn) {
+        btn=({
+            UIButton *button = [[UIButton alloc] init];
+            button.backgroundColor = [UIColor clearColor];
+            [button setBackgroundImage:[UIImage imageNamed:@""] forState:UIControlStateNormal];
+            [button setBackgroundImage:[UIImage imageNamed:@""] forState:UIControlStateHighlighted];
+            [button setTitle:@"" forState:UIControlStateNormal];
+            button.titleLabel.font = [UIFont systemFontOfSize:&lt;#fontSize#&gt;];
+            [button setTitleColor:&lt;#color#&gt; forState:UIControlStateNormal];
+            button;
+        });
+    }
+    return btn;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DFF6BDC0-9441-4174-9972-48DCCA753DA1</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>UIButtonGetter</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
