@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>-(UIButton*)&lt;#buttonName#&gt; {
-    UIButton *btn=_backButton;
+    UIButton *btn=&lt;#buttonName#&gt;;
     if (!btn) {
         btn=({
             UIButton *button = [[UIButton alloc] init];
@@ -34,6 +34,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
