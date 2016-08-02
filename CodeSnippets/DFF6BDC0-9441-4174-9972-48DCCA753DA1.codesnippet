@@ -10,9 +10,8 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>-(UIButton*)&lt;#buttonName#&gt; {
-    UIButton *btn=&lt;#buttonName#&gt;;
-    if (!btn) {
-        btn=({
+    if (!&lt;#buttonName#&gt;) {
+        &lt;#buttonName#&gt;=({
             UIButton *button = [[UIButton alloc] init];
             button.backgroundColor = [UIColor clearColor];
             [button setBackgroundImage:[UIImage imageNamed:@""] forState:UIControlStateNormal];
@@ -23,7 +22,7 @@
             button;
         });
     }
-    return btn;
+    return &lt;#buttonName#&gt;;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DFF6BDC0-9441-4174-9972-48DCCA753DA1</string>
