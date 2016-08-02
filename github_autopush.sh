@@ -1,4 +1,4 @@
-cd ~/Users/mac/Documents/MyWork/xcode配置备份/xcode_tool
+cd ~/Users/mac/Documents/MyWork/xcode_backup/xcode_tool
 
 git add .
 git commit -m "Added New for $(date)"
