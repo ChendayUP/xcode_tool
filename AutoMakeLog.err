@@ -979,3 +979,5 @@ To git@github.com:ChendayUP/xcode_tool.git
 2016-09-30 10:00:01.339 xcodebuild[909:40732] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin' not present in DVTPlugInCompatibilityUUIDs
 To git@github.com:ChendayUP/xcode_tool.git
    ec15fa5..4f81c47  master -> master
+To git@github.com:ChendayUP/xcode_tool.git
+   4f81c47..dc445db  master -> master
