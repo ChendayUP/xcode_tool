@@ -1040,3 +1040,8 @@ To git@github.com:ChendayUP/xcode_tool.git
 2016-10-09 10:00:00.980 xcodebuild[1910:79620] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/Backlight.xcplugin' not present in DVTPlugInCompatibilityUUIDs
 2016-10-09 10:00:00.981 xcodebuild[1910:79620] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/Auto-Importer.xcplugin' not present in DVTPlugInCompatibilityUUIDs
 2016-10-09 10:00:00.982 xcodebuild[1910:79620] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
