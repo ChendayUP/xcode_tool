@@ -1060,3 +1060,23 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2016-10-14 10:00:00.378 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/XcodeColors.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.379 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/Xcode_copy_line.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.379 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/VVDocumenter-Xcode.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.380 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.380 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/Peckham.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.380 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/OMQuickHelp.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.380 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ObjectGraph.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.381 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/MLAutoReplace.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.381 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/HOStringSense.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.382 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DXXcodeConsoleUnicodePlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.382 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/demoplugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.383 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DCLazyInstantiate.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.383 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/Backlight.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.384 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/Auto-Importer.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2016-10-14 10:00:00.384 xcodebuild[834:19578] [MT] PluginLoading: Required plug-in compatibility UUID 8A66E736-A720-4B3C-92F1-33D9962C69DF for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin' not present in DVTPlugInCompatibilityUUIDs
