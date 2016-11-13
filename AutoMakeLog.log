@@ -1259,3 +1259,17 @@ After doing this, you may fix the identity used for this commit with:
     git commit --amend --reset-author
 
  2 files changed, 19 insertions(+)
+[master 626c283] Added New for Sat Nov 12 10:07:27 CST 2016
+ Committer: ChenDayUP <mac@chen.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+)
