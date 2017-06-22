@@ -3,34 +3,63 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>viewcontroller</string>
+	<string>initViewController</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>class &lt;#name#&gt;: AppBaseViewController {
-    override func viewDidLoad() {
+	<string>    override func viewDidLoad() {
         super.viewDidLoad()
-      
+        setupUI()
+        setupData()
+
     }
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         
     }
+}
+
+// MARK: - Data
+extension &lt;#name#&gt; {
+    func setupData() {
+        
+        dataRequest()
+    }
     
-    deinit {
+    func dataRequest() {
+        view.showLoadingHUD()
+        API.&lt;#api#&gt;(city: "") {[weak self] response in
+            self?.view.hideAllHUDs()
+            if response.isSuccess {
+                if let list = response.list {
+                    &lt;#data reload#&gt;
+                }
+
+            } else {
+                
+                self?.view.showInfoHUD(info: response.message)
+            }
+
+        }
+    }
+
+}
+
+// MARK: - UI
+extension HomeViewController {
+    func setupUI() {
         
     }
-}
-</string>
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D11FFE00-41CB-4848-95F2-9B753BD0E259</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ViewController temple</string>
+	<string>ViewController init method</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
