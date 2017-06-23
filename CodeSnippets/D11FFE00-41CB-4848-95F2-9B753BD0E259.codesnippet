@@ -15,15 +15,11 @@
         setupData()
 
     }
-    
-    override func viewDidAppear(_ animated: Bool) {
-        super.viewDidAppear(animated)
+
+    func setupUI() {
         
     }
-}
-
-// MARK: - Data
-extension &lt;#name#&gt; {
+    
     func setupData() {
         
         dataRequest()
@@ -45,15 +41,8 @@ extension &lt;#name#&gt; {
 
         }
     }
-
 }
-
-// MARK: - UI
-extension HomeViewController {
-    func setupUI() {
-        
-    }
-}</string>
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D11FFE00-41CB-4848-95F2-9B753BD0E259</string>
 	<key>IDECodeSnippetLanguage</key>
