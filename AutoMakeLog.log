@@ -5014,3 +5014,21 @@ After doing this, you may fix the identity used for this commit with:
     git commit --amend --reset-author
 
  2 files changed, 19 insertions(+)
+[master 5774c1e] Added New for Wed Sep 20 10:00:02 CST 2017
+ Committer: ChenDayUP <mac@apple.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 129 insertions(+)
+ create mode 100644 CodeSnippets/374190DD-555F-4C87-96C3-BC631A6DDC87.codesnippet
+ create mode 100644 CodeSnippets/C7DB7167-C0E8-4B75-AE0F-52DCB692938D.codesnippet
+ create mode 100644 CodeSnippets/CA46DF95-D3D8-4DA2-A98A-89A3D78D04C3.codesnippet
+ create mode 100644 CodeSnippets/D82B8901-7FC6-424E-A135-3170BFD2235D.codesnippet
