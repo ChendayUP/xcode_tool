@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>lazylabel</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string> lazy var &lt;#name#&gt;: UILabel = {
+        let view = UILabel.normalLabel(frame: .zero, text: "&lt;#text#&gt;", fontSize: 12, color: UIColor.wordLightBlack, textAlignment: .left, isBold: false)
+        view.numberOfLines = 0
+        return view
+    }()</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DCF7FA9C-A734-45F4-AEFD-65C8F1C594F9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>lazyUILabel init</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>lazyUILabel init</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
