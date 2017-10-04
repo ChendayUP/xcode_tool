@@ -3,21 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>weak self</string>
+	<string>response result</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[weak self]</string>
+	<string>[weak self] (res) in
+            guard let `self` = self else { return }
+            if !res.isSuccess {
+                self.view.showInfoHUD(info: res.message)
+            }
+ }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2046C936-CA00-4CA4-97A3-3EEED9376CF9</string>
+	<string>91191088-7648-4D5A-9F8B-83FBEEAAED0F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>weak self</string>
+	<string>response result</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>weak self</string>
+	<string>response result</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

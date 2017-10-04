@@ -5174,3 +5174,19 @@ After doing this, you may fix the identity used for this commit with:
 
  3 files changed, 44 insertions(+)
  create mode 100644 CodeSnippets/069C5D4A-21B3-4D54-90C3-53F475DAE4D4.codesnippet
+[master 67d590c] Added New for Tue Oct  3 10:00:01 CST 2017
+ Committer: ChenDayUP <mac@apple.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 25 insertions(+), 30 deletions(-)
+ rename CodeSnippets/{E5E31843-9A00-446F-89DE-F0614AFDF260.codesnippet => 2046C936-CA00-4CA4-97A3-3EEED9376CF9.codesnippet} (70%)
+ delete mode 100644 CodeSnippets/E10BEAE2-7433-4892-9314-95759F276395.codesnippet
