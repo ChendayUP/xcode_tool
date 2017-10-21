@@ -3,26 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>response result</string>
+	<string>API method</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[weak self] (res) in
-            guard let `self` = self else { return }
-            if !res.isSuccess {
-                self.view.showInfoHUD(info: res.message)
-            }
- }</string>
+	<string>self.view.showLoadingHUD()
+API.&lt;#name#&gt;(type: type){ [weak self] (res) in
+    guard let `self` = self else { return }
+    self.view.hideAllHUDs()
+    if !res.isSuccess {
+        self.view.showInfoHUD(info: res.message)
+        return
+    }
+    self.view.showInfoHUD(info: "操作成功")
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>91191088-7648-4D5A-9F8B-83FBEEAAED0F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>response result</string>
+	<string>API method</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>response result</string>
+	<string>API method</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
