@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>self.view.showLoadingHUD()
-API.&lt;#name#&gt;(type: type){ [weak self] (res) in
+API.&lt;#name#&gt;{ [weak self] (res) in
     guard let `self` = self else { return }
     self.view.hideAllHUDs()
     if !res.isSuccess {
