@@ -2793,3 +2793,8 @@ To github.com:ChendayUP/xcode_tool.git
    1158a2d..b8442d8  master -> master
 To github.com:ChendayUP/xcode_tool.git
    b8442d8..241a255  master -> master
+ssh: connect to host github.com port 22: Network is down
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
