@@ -10,7 +10,8 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>    lazy var &lt;#name#&gt;: &lt;#type#&gt; = {
-        return &lt;#code#&gt;
+        let view = &lt;#type#&gt;
+        return view
     }()</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>71C3090F-BE04-4653-ABBD-AAE0A0822F0C</string>
