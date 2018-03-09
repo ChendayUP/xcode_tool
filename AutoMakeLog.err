@@ -2910,3 +2910,8 @@ To github.com:ChendayUP/xcode_tool.git
    cfbeca7..cdc662b  master -> master
 To github.com:ChendayUP/xcode_tool.git
    cdc662b..7ae5f09  master -> master
+ssh_exchange_identification: read: Operation timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
