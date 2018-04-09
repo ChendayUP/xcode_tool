@@ -6,18 +6,18 @@
 	<string>print</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>print("&lt;#code#&gt;")</string>
+	<string>print(&lt;#var#&gt;)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>AE1F191B-35CE-459D-B339-FEE72E0F728C</string>
+	<string>DB1C3EC9-7163-4F10-90C8-5E4A7AFC0765</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>print string var</string>
+	<string>print var</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>print String</string>
+	<string>print Variable</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
