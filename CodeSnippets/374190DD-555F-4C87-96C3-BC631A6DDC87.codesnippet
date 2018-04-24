@@ -6,7 +6,7 @@
 	<string>pushViewController</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>   let vc = &lt;#name#&gt;()
