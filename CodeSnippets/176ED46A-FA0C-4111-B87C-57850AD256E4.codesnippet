@@ -3,25 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>weak self</string>
+	<string>apvstore</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>{ [weak self] &lt;#var#&gt; in
-    guard `self` = self else { return }
-
-}</string>
+	<string> guard let data = APVStore.share.data else { return }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E5E31843-9A00-446F-89DE-F0614AFDF260</string>
+	<string>176ED46A-FA0C-4111-B87C-57850AD256E4</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>weak self block</string>
+	<string>apvstore data</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
