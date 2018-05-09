@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>{ [weak self] &lt;#var#&gt; in
-    guard `self` = self else { return }
+    guard let `self` = self else { return }
 
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
