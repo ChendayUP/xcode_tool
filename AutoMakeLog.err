@@ -3083,3 +3083,8 @@ To github.com:ChendayUP/xcode_tool.git
    4e7b63b..f07bce9  master -> master
 To github.com:ChendayUP/xcode_tool.git
    f07bce9..e8c16ce  master -> master
+ssh: Could not resolve hostname github.com: nodename nor servname provided, or not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
