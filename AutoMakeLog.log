@@ -7872,3 +7872,9 @@ After doing this, you may fix the identity used for this commit with:
  2 files changed, 4 insertions(+)
 [master f6b386a] Added New for Fri Aug 10 10:00:00 CST 2018
  2 files changed, 4 insertions(+)
+[master c3bf28b] Added New for Sat Aug 11 10:00:01 CST 2018
+ 6 files changed, 188 insertions(+)
+ create mode 100644 appcodesettings.jar
+ create mode 100644 myTheme.xccolortheme
+ create mode 100644 webstormSetting_Dracula.jar
+ create mode 100644 webstormsetting.jar
