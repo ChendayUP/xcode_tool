@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>api</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string> API.&lt;#name#&gt; {[weak self] res in
+            guard let `self` = self else { return }
+            let rows = res.list.map { self.getRow(model: $0) }
+            self.section(add: rows)
+        }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D22F9664-55BE-42ED-96FD-84071581EC70</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>API TableView LoadMore</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>API TableView LoadMore</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
