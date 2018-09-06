@@ -9,14 +9,24 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> init() {
-        super.init(frame: .zero)
-        &lt;#code#&gt;
-    }
-    
-    required init?(coder aDecoder: NSCoder) {
-        super.init(coder: aDecoder)
-    }</string>
+	<string>init() {
+    super.init(frame: .zero)
+    setup()
+}
+
+override init(frame: CGRect) {
+    super.init(frame: frame)
+    setup()
+}
+
+required init?(coder aDecoder: NSCoder) {
+    super.init(coder: aDecoder)
+    setup()
+}
+
+func setup() -&gt; Void {
+    &lt;#code#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C9F38577-E1F1-4C1D-82A6-0A4ADDBDD2BC</string>
 	<key>IDECodeSnippetLanguage</key>
