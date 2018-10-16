@@ -3411,3 +3411,6 @@ packet_write_wait: Connection to 192.30.253.113 port 22: Broken pipe
 fatal: The remote end hung up unexpectedly
 fatal: The remote end hung up unexpectedly
 cp: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source/Custom.xctemplate: No such file or directory
+To github.com:ChendayUP/xcode_tool.git
+   91a817f..6cad406  master -> master
+cp: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source/Custom.xctemplate: No such file or directory
