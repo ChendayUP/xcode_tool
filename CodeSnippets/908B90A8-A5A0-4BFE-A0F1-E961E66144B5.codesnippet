@@ -3,25 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>weak self</string>
+	<string>func</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>{ [weak self] &lt;#var#&gt; in
-    guard let `self` = self else { return }
-
+	<string>@objc func &lt;#name#&gt;() {
+        
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E5E31843-9A00-446F-89DE-F0614AFDF260</string>
+	<string>908B90A8-A5A0-4BFE-A0F1-E961E66144B5</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>@objc func</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>weak self block</string>
+	<string>@objc func</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
