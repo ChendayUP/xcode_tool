@@ -9,9 +9,9 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>   func &lt;#name#&gt;(&lt;#parameters#&gt;) {
+	<string>   fileprivate func &lt;#name#&gt;(&lt;#parameters#&gt;) {
         
-    }
+   }
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D82B8901-7FC6-424E-A135-3170BFD2235D</string>

@@ -3,26 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>func</string>
+	<string>var</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    fileprivate func &lt;#name#&gt;() {
-        
-    }</string>
+	<string>private var &lt;#name#&gt; = &lt;#value#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C7DB7167-C0E8-4B75-AE0F-52DCB692938D</string>
+	<string>9087E4BC-16A5-4AE1-A58E-6B09F1744915</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>func noParam noReturn</string>
+	<string>私有变量声明</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>func noParam noReturn</string>
+	<string>private var</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
