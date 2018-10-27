@@ -3,25 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ScrollContainerView</string>
+	<string>UILabel</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    let aView = ScrollContainerView()
-    override func loadView() { view = aView }
-    var mainView: UIView {
-        return aView.contentView
-    }</string>
+	<string>let &lt;#name#&gt;Label = UILabel("&lt;#text#&gt;", fontSize: 14, color: UIColor.textBlack, fontWeight: UIFont.Weight.semibold, textAlignment: .left)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>78E86325-F752-40FA-90DF-E1A53970CAD0</string>
+	<string>1297011E-043D-4BEA-B51B-060E46D99C21</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>ScrollContainerView init method</string>
+	<string>UILabel初始化方法</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ScrollContainerView</string>
+	<string>UILabel init</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

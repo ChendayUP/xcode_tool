@@ -19,9 +19,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>lazyUILabel init</string>
+	<string>lazy UILabel init</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>lazyUILabel init</string>
+	<string>lazy UILabel init</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
