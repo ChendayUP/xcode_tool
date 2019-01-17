@@ -3714,3 +3714,6 @@ cp: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devel
 To github.com:ChendayUP/xcode_tool.git
    42d51ee..667861e  master -> master
 cp: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source/Custom.xctemplate: No such file or directory
+To github.com:ChendayUP/xcode_tool.git
+   667861e..217136b  master -> master
+cp: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source/Custom.xctemplate: No such file or directory
