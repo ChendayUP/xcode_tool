@@ -3856,3 +3856,9 @@ cp: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devel
 To github.com:ChendayUP/xcode_tool.git
    4e1eb4b..57dfcff  master -> master
 cp: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source/Custom.xctemplate: No such file or directory
+ssh: connect to host github.com port 22: Network is down
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+cp: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source/Custom.xctemplate: No such file or directory
